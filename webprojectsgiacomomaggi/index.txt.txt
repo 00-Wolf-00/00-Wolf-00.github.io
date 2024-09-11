@@ -1,0 +1,10 @@
+<!doctype html>
+<html lang="it">
+	<head>
+	<meta charset="utf-8"/>
+	<title>prova</title>
+	</head>
+		<body>
+		<img src="images/firefox.png" alt="logo firefox"/>
+		</body>
+</html>
